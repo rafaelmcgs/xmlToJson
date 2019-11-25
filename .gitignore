@@ -3,3 +3,4 @@ dist
 credentials.json
 translations.xlsx
 languages.json
+.idea/

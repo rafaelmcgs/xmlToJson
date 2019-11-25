@@ -1,0 +1,23 @@
+{
+  "name": "xmltojson",
+  "version": "1.0.0",
+  "description": "xmlToJson",
+  "main": "index.html",
+  "scripts": {
+    "start": "node downloadFile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmcgs/xmlToJson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmcgs/xmlToJson/issues"
+  },
+  "homepage": "https://github.com/rafaelmcgs/xmlToJson#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "google-spreadsheet": "^2.0.8"
+  }
+}
