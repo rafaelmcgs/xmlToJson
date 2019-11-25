@@ -1,0 +1,5 @@
+node_modules
+dist
+credentials.json
+translations.xlsx
+languages.json
